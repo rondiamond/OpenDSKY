@@ -40,7 +40,7 @@ https://github.com/virtualagc/virtualagc
 NOTE: The original vendor's Mac kernel extension causes kernel panics (crashes) for recent versions of Mac OS.  This appears to be a stable alternative:  
 https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver  
 
-#### Processor (menu selection is Arduino IDE):
+#### Processor (menu selection in Arduino IDE):
 "ATmega328P (Old Bootloader)"  
   
 ~
